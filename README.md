@@ -9,6 +9,7 @@
 | 文件 | 点击下载 |
 | --- | --- |
 | 📊 Excel 题库（.xlsx） | [下载 Excel](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.xlsx) |
+| 📝 Word 题库（.docx） | [下载 Word](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.docx) |
 | 📄 JSON 题库（.json） | [获取 JSON 原始文件](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.json) |
 
 ## 🛠️ 题库导出脚本
