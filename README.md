@@ -6,16 +6,10 @@
 
 ## 📥 下载资料
 
-**✅ 最省事：** [📦 点击直接下载全部资料（ZIP，含 Excel + JSON）](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/archive/refs/heads/main.zip) — 无需登录 GitHub，下载后解压即可使用。
-
-也可以单独获取以下文件：
-
 | 文件 | 点击下载 |
 | --- | --- |
-| 📊 Excel 题库（.xlsx） | [下载 Excel（推荐）](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.xlsx) |
+| 📊 Excel 题库（.xlsx） | [下载 Excel](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.xlsx) |
 | 📄 JSON 题库（.json） | [获取 JSON 原始文件](https://github.com/Lammmm93/SHSMU-Lab-Safety-2026/raw/refs/heads/main/%E4%BA%A4%E5%8C%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E9%A2%98%E5%BA%93_1251%E9%A2%98.json) |
-
-> 提示：Excel 链接通常会直接下载；JSON 属于文本格式，部分浏览器可能直接展示内容而不是下载。遇到这种情况，建议点击上面的 **ZIP 一键下载**，最省心。
 
 ## 📝 使用说明
 
